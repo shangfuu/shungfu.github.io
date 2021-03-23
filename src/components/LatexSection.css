@@ -1,0 +1,23 @@
+.col-latex {
+  margin-bottom: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  flex: 1;
+  max-width: 50%;
+  max-height: 50%;
+}
+
+.latex_field {
+  font-size: 40px;
+  margin-top: 150px;
+}
+
+.home_latex-text-wrapper {
+  max-width: 540px;
+  padding-top: 0;
+  padding-bottom: 60px;
+  justify-content: center;
+  text-align: center;
+}
